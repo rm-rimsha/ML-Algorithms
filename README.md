@@ -56,8 +56,6 @@ This project includes implementation of ML algorithms from scratch as well as av
 
    Initially, the model did not converge. However, the cost reduced due to the normalization of features using Normalization Techniques such as Min-Max and Z-Score. The Xavier Weight initialization played a vitol role to improve the accuracy of the model. 
 
-   ![image](https://github.com/rm-rimsha/ML-Algorithms/assets/105241371/5cceea32-ceda-44dd-8862-690a2b7b41ab)
-
    ![image](https://github.com/rm-rimsha/ML-Algorithms/assets/105241371/2051a3d5-1412-4912-8560-5a3bec8ccbbf)
 
 
